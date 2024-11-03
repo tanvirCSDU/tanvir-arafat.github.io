@@ -7,15 +7,6 @@ redirect_from:
   - /about.html
 ---
 
----
-permalink: /
-title: "Md. Tanvir Arafat - Bangladeshi Researcher and Educator"
-author_profile: true
-redirect_from:
-  - /about/
-  - /about.html
----
-
 Welcome to my personal website! I am **Md. Tanvir Arafat**, currently serving as a **Lecturer** in the Department of Computer Science and Engineering at *BRAC University*, with an academic background in Computer Science from *University of Dhaka*. My expertise spans **Machine Learning in Healthcare**, **Distributed Machine Learning**, and **Optimization Algorithms**, among other areas.
 
 I graduated top of my class in both my **M.Sc.** and **B.Sc.** programs, achieving the highest CGPA across my faculty. My journey in academia and research has allowed me to contribute meaningfully to various initiatives, including projects on **Privacy-Preserving Machine Learning** and **Cloud Robotics**. Alongside my teaching responsibilities, I actively work on projects involving AI and ML applications in healthcare through my role with Synchromedics.
