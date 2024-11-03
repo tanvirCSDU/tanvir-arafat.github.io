@@ -13,6 +13,6 @@ I graduated top of my class in both my **M.Sc.** and **B.Sc.** programs, achievi
 
 With a deep passion for learning and mentoring, I strive to create a collaborative and engaging environment for students, helping them unlock their potential in computer science.
 
-You can explore my research work and academic accomplishments further through my [CV](tanvir-arafat.github.io/cv/).
+You can explore my research work and academic accomplishments further through my [CV](/cv/).
 
 Feel free to reach out to me via email. My email: **tanvirarafat.2316.csedu@gmail.com**.
